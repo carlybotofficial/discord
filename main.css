@@ -56,7 +56,7 @@ body {
 .heading {
     padding: 160px 50px !important;
     color: #fff !important;
-    background-image: url("https://cdn.discordapp.com/attachments/812312110352564244/815244613056987166/ibJrF9W1.jpg") !important;
+    background-image: url("wavy-purple-by-nourudio.svg") !important;
     background-position: bottom !important;
     background-size: 300% !important;
     background-repeat: no-repeat !important;
@@ -86,7 +86,7 @@ body {
 }
 .features .title {
     font-size: 40px !important;
-    color: #ffffff !important;
+    color: #ad69e0 !important;
     line-height: 70px !important;
 }
 
